@@ -1,0 +1,24 @@
+|     服务      |          默认端口号           |
+| :-----------: | :---------------------------: |
+|      SSH      |              22               |
+|    Apache     |              80               |
+|     Nginx     |              80               |
+|     Mysql     |             3306              |
+|    Tomcat     |             8080              |
+|   Jumperver   |              80               |
+|    Rundeck    |             4440              |
+|   Openldap    |      389、加密监听：636       |
+|    Openvpn    |             1194              |
+|     ————      |             ————              |
+|   Zookeeper   |             2181              |
+|     Kafka     |             9092              |
+| Kafka-Manager |             9000              |
+|     ————      |             ————              |
+| Elasticsearch |             9200              |
+|    ES-Head    |             9100              |
+|     ————      |             ————              |
+|   RabbitMQ    |             15672             |
+|     Redis     |             6379              |
+|    Mongodb    |             27017             |
+|    Zabbix     | 服务端：10051 / 客户端：10050 |
+
